@@ -140,14 +140,7 @@ h1 {
 }
 
 .hero-image img {
-<<<<<<< HEAD
-  width: min(100%, 360px);
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
-  border-radius: 28px;
-=======
   border-radius: 40px;
->>>>>>> bbf6f4158b96926c04b1ec74e3a10ec26712de82
   box-shadow: var(--shadow);
   border: 1px solid rgba(115, 99, 76, 0.14);
 }
