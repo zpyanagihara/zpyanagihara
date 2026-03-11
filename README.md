@@ -1,4 +1,4 @@
-<img src="headshot.jpg" width="120" align="right">
+<img src="images/headshot.jpg" width="120" align="right">
 # Personal Website
 
 This repository contains the source code for my personal website:
